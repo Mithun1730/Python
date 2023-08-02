@@ -20,5 +20,19 @@ class Details:
 x1 = Details(Mithun, 45)
 x1.myfunc()
 
-i) Learning Python MYSQL
+i) Learning Python MYSQL  ## 02/08/2023
+
+***Connection***
+ cursor() -> The MySQLCursor of mysql-connector-python (and similar libraries) is used to execute statements to communicate with the MySQL database.
+
+ mydb.commit() -> is required to make the changes, otherwise no changes are made to the table.
+
+ *** INSERT, UPDATE, DELETE, ORDERBY, SELECT, JOINS ***
+
+//Inner Join -> INNER JOIN only shows the records where there is a match.
+
+//Left Join -> If you want to show all users, even if they do not have a favorite product, use the LEFT JOIN statement
+
+ * 
+
 
